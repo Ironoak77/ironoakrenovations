@@ -1,0 +1,28 @@
+IRON OAK RENOVATIONS — FINAL WEBSITE PACKAGE
+
+IMPORTANT: Upload the CONTENTS of this package, not the enclosing folder.
+
+GITHUB
+1. Open the empty ironoakrenovations repository.
+2. Click “uploading an existing file.”
+3. Open this unzipped package on your Mac.
+4. Select every file and the assets folder.
+5. Drag them onto GitHub.
+6. Use commit message: Upload final Iron Oak website
+7. Click Commit changes.
+
+CANSPACE / CPANEL
+1. Open File Manager and enter public_html.
+2. Back up the current website before replacing it.
+3. Upload this ZIP to public_html.
+4. Select the ZIP and click Extract.
+5. Make sure index.html is directly inside public_html, not inside another folder.
+6. Remove the ZIP after extraction.
+
+CONTACT DETAILS USED
+Phone: 519-619-9406
+Email: info@ironoakrenovations.ca
+Office hours: Monday–Friday, 9:00 AM–5:00 PM
+Facebook: https://www.facebook.com/profile.php?id=61586427283477
+
+The contact form requires PHP mail support on CanSpace. Test it after publishing.
